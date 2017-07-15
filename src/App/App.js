@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h1>React Starter</h1>
+          <h1>React Redux Starter</h1>
         </div>
         <div className="App-footer">
           Made by <a href="https://twitter.com/denichodev">Deni Cho</a>
